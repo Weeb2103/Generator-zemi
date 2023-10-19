@@ -1,7 +1,7 @@
 # Generator-zemi
 Vygeneruj si random zemi
 
-![GIF](https://tenor.com/bWISj.gif)
+![GIF](https://media.tenor.com/4nnGjyefLJkAAAAC/saitama.gif)
 
 ## Download
 
