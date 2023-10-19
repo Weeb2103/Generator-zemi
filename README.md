@@ -1,7 +1,7 @@
 # Generator-zemi
 Vygeneruj si random zemi
 
-![GIF](https://media.tenor.com/l6LpvsOy6j8AAAAd/anime-bunny.gif)
+![GIF](https://tenor.com/bWISj.gif)
 
 ## Download
 
