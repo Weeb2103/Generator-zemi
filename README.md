@@ -5,7 +5,7 @@ Vygeneruj si random zemi
 
 ## Download
 
-[DOWNLOAD FREE](https://github.com/Weeb2103/Knihovna/releases/download/v1.1.0/Release.zip)
+[DOWNLOAD FREE](https://github.com/Weeb2103/Generator-zemi/releases/tag/Release)
 
 ## Donate
 
