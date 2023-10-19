@@ -1,5 +1,5 @@
 # Generator-zemi
-Zde si můžeš uložit své knihy jako kdyby to byla tvá knihovna.
+Vygeneruj si random zemi
 
 ![GIF](https://media.tenor.com/l6LpvsOy6j8AAAAd/anime-bunny.gif)
 
